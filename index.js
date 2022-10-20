@@ -1,7 +1,6 @@
 const cors = require("cors");
 const express = require("express");
 const app = express();
-const port = 3001;
 
 console.log(`Server setup: Setting up...`);
 
@@ -28,7 +27,7 @@ console.log(`Server setup: Setting up...`);
     }
   });
 
-  app.listen(port, () =>
-    console.log(`Server setup: All done. Listening on port ${port}!`)
-  );
+  app.listen(process.env.PORT || 3000, function(){
+    console.log(`Server setup: All done. Listening on port ${this.address().port} mode ${app.settings.env}!`)
+  });
 })();
