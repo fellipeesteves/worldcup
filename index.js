@@ -1,7 +1,7 @@
 const cors = require("cors");
 const express = require("express");
 const app = express();
-const port = 80;
+const port = 3001;
 
 console.log(`Server setup: Setting up...`);
 
