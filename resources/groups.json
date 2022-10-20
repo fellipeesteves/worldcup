@@ -1,0 +1,146 @@
+[
+    {
+        "nome": "Grupo A",
+        "selecoes": [
+            {
+                "nome": "Qatar",
+                "slug": "qatar"
+            },{
+                "nome": "Equador",
+                "slug": "equador"
+            },{
+                "nome": "Senegal",
+                "slug": "senegal"
+            },{
+                "nome": "Holanda",
+                "slug": "holanda"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo B",
+        "selecoes": [
+            {
+                "nome": "Inglaterra",
+                "slug": "inglaterra"
+            },{
+                "nome": "Irã",
+                "slug": "ira"
+            },{
+                "nome": "Estados Unidos",
+                "slug": "eua"
+            },{
+                "nome": "País de Gales",
+                "slug": "gales"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo C",
+        "selecoes": [
+            {
+                "nome": "Argentina",
+                "slug": "argentina"
+            },{
+                "nome": "Arábia Saudita",
+                "slug": "arabia-saudita"
+            },{
+                "nome": "México",
+                "slug": "mexico"
+            },{
+                "nome": "Polônia",
+                "slug": "polonia"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo D",
+        "selecoes": [
+            {
+                "nome": "França",
+                "slug": "franca"
+            },{
+                "nome": "Austrália",
+                "slug": "australia"
+            },{
+                "nome": "Dinamarca",
+                "slug": "dinamarca"
+            },{
+                "nome": "Tunísia",
+                "slug": "tunisia"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo E",
+        "selecoes": [
+            {
+                "nome": "Espanha",
+                "slug": "espanha"
+            },{
+                "nome": "Costa Rica",
+                "slug": "casta-rica"
+            },{
+                "nome": "Alemanha",
+                "slug": "alemanha"
+            },{
+                "nome": "Japão",
+                "slug": "japao"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo F",
+        "selecoes": [
+            {
+                "nome": "Bélgica",
+                "slug": "belgica"
+            },{
+                "nome": "Canadá",
+                "slug": "canada"
+            },{
+                "nome": "Marrocos",
+                "slug": "marrocos"
+            },{
+                "nome": "Croácia",
+                "slug": "croacia"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo G",
+        "selecoes": [
+            {
+                "nome": "Brasil",
+                "slug": "brasil"
+            },{
+                "nome": "Sérvia",
+                "slug": "servia"
+            },{
+                "nome": "Suíça",
+                "slug": "suica"
+            },{
+                "nome": "Camarões",
+                "slug": "camaroes"
+            }
+        ]
+    },
+    {
+        "nome": "Grupo H",
+        "selecoes": [
+            {
+                "nome": "Portugal",
+                "slug": "portugal"
+            },{
+                "nome": "Gana",
+                "slug": "gana"
+            },{
+                "nome": "Uruguai",
+                "slug": "uruguai"
+            },{
+                "nome": "República da Coreia",
+                "slug": "coreia"
+            }
+        ]
+    }
+]
